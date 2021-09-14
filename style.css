@@ -1,0 +1,25 @@
+/*Ikov2021*/
+img {
+    width: 30%;
+    border-radius: 100px;
+}
+
+
+body{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+min-height: 100vh;
+}
+.music{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 300px !important;
+}
+.music iframe{
+    width: 30%;
+    height: 180px;
+
+}
+.back{
+    width: 200px;
+}
